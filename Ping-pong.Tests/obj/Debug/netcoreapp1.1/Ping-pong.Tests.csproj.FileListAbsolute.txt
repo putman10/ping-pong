@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.Tests.deps.json
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/obj/Debug/netcoreapp1.1/Ping-pong.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/obj/Debug/netcoreapp1.1/Ping-pong.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.Tests.dll
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.Tests.pdb
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.dll
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/bin/Debug/netcoreapp1.1/Ping-pong.pdb
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/obj/Debug/netcoreapp1.1/Ping-pong.Tests.dll
+/Users/Guest/Desktop/Ping-pong.Solution/Ping-pong.Tests/obj/Debug/netcoreapp1.1/Ping-pong.Tests.pdb
